@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>"BRIYANI HOUSE"</title>
+<head>
+<body>
+<p "style = color:blue;" > WELCOME To BRIYANI HOUSE </p>  
+<h1> Our Restaurant consists Veg Non Veg and all kind of Refreshments</h1>
+</body>
+</head>
+</html>
