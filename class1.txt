@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>CSE TRANSITION</title>
+    <style>
+button{
+background-color:blue;
+paddind: 15px 30 px;
+border:solid;
+color:white;
+cursor:pointer;
+transition:background -color 5s ease;
+}
+button:hover{
+background-coloutr:green;
+<button>Hi</button>
+}
+   </style>
+</head>
+<body>
+<h2>HELLO</h2>
+</body>
+</html>
+
